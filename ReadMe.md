@@ -1,4 +1,4 @@
-# Magical NavBar 
+# Fancy NavBar 
 
 <img src="https://github.com/SinaBoby/navbar/blob/main/docs/assets/Screenshot%202022-02-15%20at%2022.30.00.png?raw=true" >
 ## *Used Languages:*
