@@ -14,9 +14,9 @@ preview at [GitHub Pages](https://sinaboby.github.io/navbar/).
 ---
 This Repo has made as an excercise for making Responsive NavBars using CSS & JavaScript .
 ---
-You can watch the online tutorial on youtube through this link :
+Link to Demo :
 
-[Online Tutorials](https://youtu.be/ArTVfdHOB-M)
+[Fancy Navigation Bar](https://sinaboby.github.io/navbar/)
 
 ---
 Good luck & Happy Coding !
