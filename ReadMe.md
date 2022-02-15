@@ -1,6 +1,6 @@
 # Fancy NavBar 
 
-   <img align="center" src="https://github.com/SinaBoby/navbar/blob/main/docs/assets/Screenshot%202022-02-15%20at%2022.30.00.png?raw=true" style="margin:0 auto" >
+   <img text-align="center" src="https://github.com/SinaBoby/navbar/blob/main/docs/assets/Screenshot%202022-02-15%20at%2022.30.00.png?raw=true" style="margin:0 auto" >
 ## *Used Languages:*
 
 > ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
