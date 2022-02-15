@@ -1,6 +1,6 @@
 # Magical NavBar 
 
-<img src="https://github.com/SinaBoby/navbar/assets/Screenshot 2022-02-15 at 22.30.00.png" width="50px">
+<img src="https://github.com/SinaBoby/navbar/tree/main/docs/assets/Screenshot 2022-02-15 at 22.30.00.png" width="50px">
 ## *Used Languages:*
 
 > ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
